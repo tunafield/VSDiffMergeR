@@ -1,0 +1,12 @@
+bin/
+obj/
+debug/
+release/
+
+*.bak
+*.cache
+*.orig
+*.psess
+*.suo
+*.user
+*.vsp
